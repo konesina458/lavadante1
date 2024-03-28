@@ -284,3 +284,4 @@
 {"error":"{\"Error_GUID\":\"2887498519381608326\",\"Error\":\"Failed all retries {GUID:2887498519381608326,error:No pairings available.,chain_id:STRK}\"}"}
 {"jsonrpc":"2.0","id":"\"1\"","result":628093}
 {"jsonrpc":"2.0","id":"\"1\"","result":628101}
+{"jsonrpc":"2.0","id":"\"1\"","result":628106}
